@@ -28,5 +28,3 @@ We welcome contributions from the community to improve the quality and accuracy 
 3. Make your changes and commit them: `git commit -m 'Add your changes'`.
 4. Push to the branch: `git push origin feature/your-feature`.
 5. Open a pull request, describing the changes you made.
-
-Please follow our [Contribution Guidelines](CONTRIBUTING.md) for more details.
